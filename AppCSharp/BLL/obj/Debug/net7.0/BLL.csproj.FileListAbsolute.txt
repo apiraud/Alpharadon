@@ -1,0 +1,15 @@
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\BLL.sourcelink.json
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\ref\BLL.dll
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\bin\Debug\net7.0\BLL.runtimeconfig.json
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\extra\Documents\Licence CPLR\C#\AppCSharp\BLL\obj\Debug\net7.0\BLL.genruntimeconfig.cache
